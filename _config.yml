@@ -14,7 +14,7 @@ style: styles-6
 
 #Profile information
 name: Xutong Wang
-tagline: Epidemiology/Statistics/<br />Computational Biology 
+tagline: Epidemiology/Statistics/<br />Computational Biology<br />Machine Learning 
 pic: bio-photo.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
